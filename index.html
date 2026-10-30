@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nexora Digital Agency</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav class="navbar">
+            <a href="#home" class="logo">NEXORA<span>.</span></a>
+
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#team">Team</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+
+            <button class="menu-btn" id="menuBtn">☰</button>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero" id="home">
+            <div class="hero-content">
+                <p class="tagline">YOUR DIGITAL GROWTH PARTNER</p>
+                <h1>We Make Your Brand <span>Stand Out.</span></h1>
+                <p>
+                    Kami membantu bisnis berkembang melalui strategi
+                    digital marketing yang kreatif, efektif, dan inovatif.
+                </p>
+                <a href="#services" class="btn">Explore Services</a>
+            </div>
+        </section>
+
+        <section class="about section" id="about">
+            <p class="section-label">WHO WE ARE</p>
+            <h2>About <span>Nexora</span></h2>
+            <p>
+                Nexora Digital Agency adalah agensi pemasaran digital
+                yang membantu bisnis membangun identitas merek,
+                menjangkau pelanggan, dan berkembang di dunia digital.
+                Kami mengutamakan kreativitas, strategi, dan kolaborasi.
+            </p>
+        </section>
+
+        <section class="services section" id="services">
+            <p class="section-label">WHAT WE DO</p>
+            <h2>Our <span>Services</span></h2>
+
+            <div class="service-container">
+                <article class="service-card">
+                    <div class="service-icon">📱</div>
+                    <h3>Social Media Management</h3>
+                    <p>Mengelola media sosial agar lebih menarik dan konsisten.</p>
+                </article>
+
+                <article class="service-card">
+                    <div class="service-icon">🔎</div>
+                    <h3>Search Engine Optimization</h3>
+                    <p>Membantu website lebih mudah ditemukan di mesin pencari.</p>
+                </article>
+
+                <article class="service-card">
+                    <div class="service-icon">📈</div>
+                    <h3>Digital Advertising</h3>
+                    <p>Merancang kampanye digital untuk menjangkau target pasar.</p>
+                </article>
+
+                <article class="service-card">
+                    <div class="service-icon">🎨</div>
+                    <h3>Content Creation</h3>
+                    <p>Membuat konten kreatif yang sesuai dengan identitas merek.</p>
+                </article>
+            </div>
+        </section>
+
+        <section class="team section" id="team">
+            <p class="section-label">THE PEOPLE BEHIND NEXORA</p>
+            <h2>Meet Our <span>Team</span></h2>
+
+            <div class="team-container">
+                <article class="team-card">
+                    <div class="team-icon">👩🏻‍💻</div>
+                    <h3>Team Member 1</h3>
+                    <p>Web Developer</p>
+                </article>
+
+                <article class="team-card">
+                    <div class="team-icon">👨🏻‍💻</div>
+                    <h3>Team Member 2</h3>
+                    <p>UI/UX Designer</p>
+                </article>
+
+                <article class="team-card">
+                    <div class="team-icon">👩🏻‍🎨</div>
+                    <h3>Team Member 3</h3>
+                    <p>Digital Marketer</p>
+                </article>
+            </div>
+        </section>
+
+        <section class="contact section" id="contact">
+            <p class="section-label">LET'S WORK TOGETHER</p>
+            <h2>Contact <span>Us</span></h2>
+            <p>Tertarik bekerja sama dengan kami? Hubungi tim Nexora!</p>
+
+            <form id="contactForm">
+                <input type="text" id="name" placeholder="Nama kamu" required>
+                <input type="email" id="email" placeholder="Email kamu" required>
+                <textarea id="message" placeholder="Pesan kamu" required></textarea>
+                <button type="submit" class="btn">Kirim Pesan</button>
+            </form>
+            <p id="formMessage"></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© <span id="year"></span> Nexora Digital Agency. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
