@@ -1,2 +1,2 @@
-# company-profile-nexora
-Website company profile Nexora Digital Agency
+# company-profile-ensyanin
+Website company profile Ensyanin Digital Agency
