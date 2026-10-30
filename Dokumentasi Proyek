@@ -1,0 +1,35 @@
+DOKUMENTASI PROYEK
+ENSYANIN DIGITAL AGENCY
+1. Nama dan Deskripsi Proyek
+Ensyanin Digital Agency adalah agensi pemasaran digital yang membantu bisnis membangun identitas merek, menjangkau pelanggan, dan berkembang di dunia digital. Kami mengutamakan kreativitas, strategi, dan kolaborasi.
+Nama Ensyanin dikembangkan dari gabungan nama anggota kelompok, yaitu Eni, Amarsya, dan Anin.
+2. Nama Anggota
+  -  Eni (@enienyoy)
+  -  Amarsya (@amarsyaa)
+  -  nin (@anienn)
+3. Tujuan Proyek
+  -  Membangun website resmi Ensyanin Digital Agency agar calon klien dapat mengenal profil dan layanan agensi.
+  -  Mempermudah komunikasi antara calon klien dan tim agensi melalui website.
+4. Latar Belakang
+Di era digitalisasi yang semakin pesat, keberadaan digital presence yang kuat dan profesional menjadi penting bagi bisnis untuk membangun kepercayaan dan memperluas jangkauan pasar.
+Ensyanin Digital Agency hadir untuk membantu pelaku bisnis dan UMKM dalam membangun identitas merek serta merancang strategi pemasaran digital.
+5. Fitur Website
+  -  Header / Navigasi
+  -  Hero Section (Beranda)
+  -  Tentang Kami (About Us)
+  -  Layanan (Services)
+  -  Kontak (Contact Us)
+6. Teknologi yang Digunakan
+  -  HTML5 untuk struktur halaman.
+  -  CSS untuk desain dan tampilan website.
+  -  JavaScript untuk interaktivitas website.
+  -  Git dan GitHub untuk pengelolaan kode dan kolaborasi.
+7. Pembagian Tugas
+  -  Anin: HTML dan screenshot website.
+  -  Amarsya: CSS dan README.
+  -  Eni: JavaScript dan dokumentasi.
+  -  Perbaikan navigasi: kolaborasi seluruh anggota.
+8. Proses Kolaborasi
+Setiap anggota mengerjakan tugas melalui branch masing-masing. Perubahan pekerjaan dikirim melalui commit dan push, kemudian diajukan melalui Pull Request untuk diperiksa anggota lain sebelum digabungkan ke branch main.
+9. Kesimpulan
+Proyek Ensyanin Digital Agency merupakan proyek pembuatan website company profile secara berkelompok untuk menerapkan HTML, CSS, JavaScript, serta mempelajari kolaborasi menggunakan Git dan GitHub.
