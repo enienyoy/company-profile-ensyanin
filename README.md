@@ -16,6 +16,7 @@ Tujuan
 2. Mempermudah Komunikasi & Konversi: Menghadirkan saluran komunikasi yang responsif dan mudah diakses agar calon klien dapat terhubung langsung dengan tim agensi untuk konsultasi.
 
 Latar Belakang
+
 Di era digitalisasi yang kian pesat, keberadaan presensi digital (digital presence) yang kuat dan profesional menjadi kunci utama bagi setiap bisnis untuk membangun kepercayaan serta memperluas jangkauan pasar. Ensyanin Digital Agency hadir sebagai agensi pemasaran digital yang berdedikasi untuk membantu para pelaku bisnis dan UMKM dalam merancang identitas merek (brand identity), merumuskan strategi pemasaran yang tepat, serta menjangkau calon pelanggan secara efisien.
 Nama Ensyanin sendiri lahir dari semangat kolaborasi para pemiliknya—Eni, Amarsya, dan Anin—yang menggabungkan kreativitas, strategi visual, dan keahlian teknis untuk menghadirkan solusi pemasaran digital yang adaptif dan berdampak.
 
