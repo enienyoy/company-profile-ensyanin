@@ -45,4 +45,3 @@ Pembagian tugas setiap anggota
 4. Memperbaiki navigasi website — Kolaborasi Anin, Amarsya, dan Eni
 5. Membuat README proyek — Amarsya
 6. Membuat dokumentasi proyek — Eni
-7. Mengambil dan menyiapkan screenshot website — Anin
