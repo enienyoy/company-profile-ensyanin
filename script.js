@@ -27,7 +27,7 @@ contactForm.addEventListener("submit", function (event) {
 
     formMessage.textContent =
         "Terima kasih, " + name +
-        "! Pesan anda berhasil diperiksa.";
+        "! Pesan demo berhasil diperiksa.";
 
     contactForm.reset();
 });
